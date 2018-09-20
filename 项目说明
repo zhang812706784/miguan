@@ -1,0 +1,3 @@
+这个项目下载以后，重新下载下依赖，就可以运行。npm run dev
+
+也可直接打包 npm run build
